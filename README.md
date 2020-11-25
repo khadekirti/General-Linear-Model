@@ -26,4 +26,6 @@ Other aspects of the report:
 -	Evaluate the predictive performance of each of the above two models using two appropriate metrics
 
  
- 
+Credits: Dr.Ian Wood UQ, Masters of Data Science DATA7202 Statistical Methods for Data Science
+
+
